@@ -1,5 +1,5 @@
 Arguments: 
-  /opt/buildhome/.nvm/versions/node/v8.10.0/bin/node /opt/buildhome/cache/yarn/bin/yarn.js install --cache-folder /opt/buildhome/.yarn_cache --ignore-optional
+  /opt/buildhome/.nvm/versions/node/v8.10.0/bin/node /opt/buildhome/cache/yarn/bin/yarn.js bin
 
 PATH: 
   /opt/buildhome/cache/yarn/bin:/opt/buildhome/.rvm/gems/ruby-2.3.6/bin:/opt/buildhome/.rvm/gems/ruby-2.3.6@global/bin:/opt/buildhome/.rvm/rubies/ruby-2.3.6/bin:/opt/buildhome/.rvm/bin:/opt/buildhome/.nvm/versions/node/v8.10.0/bin:/opt/buildhome/python2.7/bin:/opt/buildhome/.php:/usr/local/rvm/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/buildhome/.cask/bin:/opt/buildhome/.gimme/bin
