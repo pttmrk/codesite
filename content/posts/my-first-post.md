@@ -1,12 +1,12 @@
 ---
-title: "My First Post"
-date: 2018-05-09T12:05:37+02:00
-bigimg: [{src: "https://res.cloudinary.com/jimmysong/image/upload/images/2018040501.jpg", desc: "Flowers|Hangzhou|Apr 5,2018"}]
-draft: true
+title: My First Post
+date: 2018-05-09 12:05:37 +0200
+bigimg:
+- src: https://res.cloudinary.com/jimmysong/image/upload/images/2018040501.jpg
+  desc: Flowers|Hangzhou|Apr 5,2018
 notebook: true
+
 ---
-
-
 Salve a tutti. è ora arrivato il momento di fare casino
 
 Salve a tutti. è ora arrivato il momento di fare casino
