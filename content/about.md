@@ -3,7 +3,7 @@ date: 2017-03-18 20:53:54 +0800
 title: About me
 tags:
 - me
-subtitle: 宋净超
+subtitle: "宋净超"
 description: Jimmy Song(宋净超) - Cloud Native and Big Data
 nocomment: true
 postmeta: false
