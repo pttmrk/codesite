@@ -26,15 +26,20 @@ parent = "Categories"
 url = "categories/service-mesh"
 weight = 7
 [[menu.main]]
+name = "Serverless"
+parent = "Categories"
+url = "categories/serverless"
+weight = 6
+[[menu.main]]
 name = "Cheatsheets"
 parent = "Projects"
 url = "cheatsheets"
 weight = 6
 [[menu.main]]
-name = "Serverless"
-parent = "Categories"
-url = "categories/serverless"
-weight = 6
+name = "Migrating to Cloud Native"
+parent = "Gitbooks"
+url = "migrating-to-cloud-native-application-architectures"
+weight = 5
 [[menu.main]]
 name = "Github"
 parent = "Categories"
@@ -44,11 +49,6 @@ weight = 5
 name = "Magpie"
 parent = "Projects"
 url = "posts/yarn-on-docker"
-weight = 5
-[[menu.main]]
-name = "Migrating to Cloud Native"
-parent = "Gitbooks"
-url = "migrating-to-cloud-native-application-architectures"
 weight = 5
 [[menu.main]]
 name = "Istio service mesh"
@@ -61,6 +61,16 @@ parent = "Categories"
 url = "categories/devops"
 weight = 4
 [[menu.main]]
+name = "Cloudinary go"
+parent = "Projects"
+url = "posts/cloudinary-go"
+weight = 3
+[[menu.main]]
+name = "Hugo Handbook"
+parent = "Gitbooks"
+url = "hugo-handbook"
+weight = 3
+[[menu.main]]
 name = "Microservices"
 parent = "Categories"
 url = "categories/microservices"
@@ -71,15 +81,10 @@ parent = "Publications"
 url = "posts/cloud-native-java"
 weight = 3
 [[menu.main]]
-name = "Cloudinary go"
-parent = "Projects"
-url = "posts/cloudinary-go"
-weight = 3
-[[menu.main]]
-name = "Hugo Handbook"
+name = "Docker handbook"
 parent = "Gitbooks"
-url = "hugo-handbook"
-weight = 3
+url = "docker-handbook"
+weight = 2
 [[menu.main]]
 name = "Cloud Native Python"
 parent = "Publications"
@@ -94,11 +99,6 @@ weight = 2
 name = "Cloud Native"
 parent = "Categories"
 url = "categories/cloud-native"
-weight = 2
-[[menu.main]]
-name = "Docker handbook"
-parent = "Gitbooks"
-url = "docker-handbook"
 weight = 2
 [[menu.main]]
 name = "Spark on kubernetes"
@@ -121,25 +121,25 @@ parent = "Categories"
 url = "categories/kubernetes"
 weight = 1
 [[menu.main]]
-identifier = "Categories"
-name = "Categories"
-weight = 1
-[[menu.main]]
-identifier = "Gitbooks"
-name = "Gitbooks"
-weight = 2
-[[menu.main]]
-identifier = "Publications"
-name = "Publications"
-weight = 3
+name = "About"
+url = "about"
+weight = 7
 [[menu.main]]
 identifier = "Projects"
 name = "Projects"
 weight = 4
 [[menu.main]]
-name = "About"
-url = "about"
-weight = 7
+identifier = "Publications"
+name = "Publications"
+weight = 3
+[[menu.main]]
+identifier = "Gitbooks"
+name = "Gitbooks"
+weight = 2
+[[menu.main]]
+identifier = "Categories"
+name = "Categories"
+weight = 1
 [params]
 algolia = "d2134c5a8d250e6d3246594240c45201"
 comments = true
