@@ -26,20 +26,15 @@ parent = "Categories"
 url = "categories/service-mesh"
 weight = 7
 [[menu.main]]
-name = "Cheatsheets"
-parent = "Projects"
-url = "cheatsheets"
-weight = 6
-[[menu.main]]
 name = "Serverless"
 parent = "Categories"
 url = "categories/serverless"
 weight = 6
 [[menu.main]]
-name = "Magpie"
+name = "Cheatsheets"
 parent = "Projects"
-url = "posts/yarn-on-docker"
-weight = 5
+url = "cheatsheets"
+weight = 6
 [[menu.main]]
 name = "Migrating to Cloud Native"
 parent = "Gitbooks"
@@ -49,6 +44,11 @@ weight = 5
 name = "Github"
 parent = "Categories"
 url = "categories/github"
+weight = 5
+[[menu.main]]
+name = "Magpie"
+parent = "Projects"
+url = "posts/yarn-on-docker"
 weight = 5
 [[menu.main]]
 name = "Istio service mesh"
@@ -81,6 +81,11 @@ parent = "Gitbooks"
 url = "hugo-handbook"
 weight = 3
 [[menu.main]]
+name = "Cloud Native Python"
+parent = "Publications"
+url = "posts/cloud-native-python"
+weight = 2
+[[menu.main]]
 name = "Cloud Native"
 parent = "Categories"
 url = "categories/cloud-native"
@@ -89,11 +94,6 @@ weight = 2
 name = "Docker handbook"
 parent = "Gitbooks"
 url = "docker-handbook"
-weight = 2
-[[menu.main]]
-name = "Cloud Native Python"
-parent = "Publications"
-url = "posts/cloud-native-python"
 weight = 2
 [[menu.main]]
 name = "Awesome Cloud Native"
@@ -121,25 +121,25 @@ parent = "Categories"
 url = "categories/kubernetes"
 weight = 1
 [[menu.main]]
-name = "About"
-url = "about"
-weight = 7
-[[menu.main]]
-identifier = "Projects"
-name = "Projects"
-weight = 4
-[[menu.main]]
-identifier = "Publications"
-name = "Publications"
-weight = 3
+identifier = "Categories"
+name = "Categories"
+weight = 1
 [[menu.main]]
 identifier = "Gitbooks"
 name = "Gitbooks"
 weight = 2
 [[menu.main]]
-identifier = "Categories"
-name = "Categories"
-weight = 1
+identifier = "Publications"
+name = "Publications"
+weight = 3
+[[menu.main]]
+identifier = "Projects"
+name = "Projects"
+weight = 4
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 7
 [params]
 algolia = "d2134c5a8d250e6d3246594240c45201"
 comments = true
