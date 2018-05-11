@@ -10,7 +10,7 @@ title = "Marco Patti"
 [Author]
 email = "pattimrk@gmail.com"
 facebook = ""
-github = "pttmrkr"
+github = "pttmrk"
 linkedin = ""
 name = "Marco Patti"
 twitter = "pttmrk"
@@ -151,7 +151,7 @@ favicon = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/favic
 hello = "Hi,I'm Marco"
 logo = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/avatar-icon.png"
 rss = true
-subtitle = "I can help you to build Cloud Native confidence"
+subtitle = ""
 [[params.bigimg]]
 desc = ""
 src = "https://res.cloudinary.com/dbwa3pyqs/image/upload/c_crop,g_west,h_887,w_1884,x_493/v1526053591/art-lasovsky-559569-unsplash.jpg"
