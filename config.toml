@@ -36,11 +36,6 @@ parent = "Categories"
 url = "categories/serverless"
 weight = 6
 [[menu.main]]
-name = "Magpie"
-parent = "Projects"
-url = "posts/yarn-on-docker"
-weight = 5
-[[menu.main]]
 name = "Migrating to Cloud Native"
 parent = "Gitbooks"
 url = "migrating-to-cloud-native-application-architectures"
@@ -51,15 +46,30 @@ parent = "Categories"
 url = "categories/github"
 weight = 5
 [[menu.main]]
-name = "Istio service mesh"
-parent = "Gitbooks"
-url = "http://istio.doczh.cn"
-weight = 4
+name = "Magpie"
+parent = "Projects"
+url = "posts/yarn-on-docker"
+weight = 5
 [[menu.main]]
 name = "Devops"
 parent = "Categories"
 url = "categories/devops"
 weight = 4
+[[menu.main]]
+name = "Istio service mesh"
+parent = "Gitbooks"
+url = "http://istio.doczh.cn"
+weight = 4
+[[menu.main]]
+name = "Cloud Native Java"
+parent = "Publications"
+url = "posts/cloud-native-java"
+weight = 3
+[[menu.main]]
+name = "Microservices"
+parent = "Categories"
+url = "categories/microservices"
+weight = 3
 [[menu.main]]
 name = "Cloudinary go"
 parent = "Projects"
@@ -69,16 +79,6 @@ weight = 3
 name = "Hugo Handbook"
 parent = "Gitbooks"
 url = "hugo-handbook"
-weight = 3
-[[menu.main]]
-name = "Microservices"
-parent = "Categories"
-url = "categories/microservices"
-weight = 3
-[[menu.main]]
-name = "Cloud Native Java"
-parent = "Publications"
-url = "posts/cloud-native-java"
 weight = 3
 [[menu.main]]
 name = "Awesome Cloud Native"
@@ -101,16 +101,6 @@ parent = "Gitbooks"
 url = "docker-handbook"
 weight = 2
 [[menu.main]]
-name = "Spark on kubernetes"
-parent = "Projects"
-url = "spark-on-k8s"
-weight = 1
-[[menu.main]]
-name = "Cloud Native Go"
-parent = "Publications"
-url = "cloud-native-go"
-weight = 1
-[[menu.main]]
 name = "Kubernetes handbook"
 parent = "Gitbooks"
 url = "kubernetes-handbook"
@@ -121,25 +111,35 @@ parent = "Categories"
 url = "categories/kubernetes"
 weight = 1
 [[menu.main]]
-name = "About"
-url = "about"
-weight = 7
+name = "Spark on kubernetes"
+parent = "Projects"
+url = "spark-on-k8s"
+weight = 1
 [[menu.main]]
-identifier = "Projects"
-name = "Projects"
-weight = 4
+name = "Cloud Native Go"
+parent = "Publications"
+url = "cloud-native-go"
+weight = 1
 [[menu.main]]
-identifier = "Publications"
-name = "Publications"
-weight = 3
+identifier = "Categories"
+name = "Categories"
+weight = 1
 [[menu.main]]
 identifier = "Gitbooks"
 name = "Gitbooks"
 weight = 2
 [[menu.main]]
-identifier = "Categories"
-name = "Categories"
-weight = 1
+identifier = "Publications"
+name = "Publications"
+weight = 3
+[[menu.main]]
+identifier = "Projects"
+name = "Projects"
+weight = 4
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 7
 [params]
 algolia = "d2134c5a8d250e6d3246594240c45201"
 comments = true
