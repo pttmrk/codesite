@@ -8,13 +8,13 @@ pygmentsUseClasses = false
 theme = "beautifulhugo"
 title = "Marco Patti"
 [Author]
-email = "jimmysong@jimmysong.io"
-facebook = "jimmysongio"
-github = "rootsongjc"
-linkedin = "jimmysongio"
-name = "Jimmy Song(宋净超)"
-twitter = "jimmysongio"
-website = "https://jimmysong.io"
+email = "pattimrk@gmail.com"
+facebook = ""
+github = "pttmrkr"
+linkedin = ""
+name = "Marco Patti"
+twitter = "pttmrk"
+website = "https://pttmrk.github.io"
 [[menu.main]]
 name = "Tags"
 parent = "Categories"
@@ -153,17 +153,5 @@ logo = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/avatar-i
 rss = true
 subtitle = "I can help you to build Cloud Native confidence"
 [[params.bigimg]]
-desc = "KEUC - China Kubernetes End User Conference 2017"
-src = "https://res.cloudinary.com/jimmysong/image/upload/banners/keuc-cncf.jpg"
-[[params.bigimg]]
-desc = "Kubernetes Beijing fans meetup - Aug 28,2017"
-src = "https://res.cloudinary.com/jimmysong/image/upload/banners/kubernetes-meetup-china-20170826.jpg"
-[[params.bigimg]]
-desc = "Democratizing the Cloud Computing for every one"
-src = "https://res.cloudinary.com/jimmysong/image/upload/banners/cloud-computing.jpg"
-[[params.bigimg]]
-desc = "Insight throught the Great Wall to the world"
-src = "https://res.cloudinary.com/jimmysong/image/upload/banners/great-wall-01.jpg"
-[[params.bigimg]]
-desc = "1st Istio meetup in Beijing GDG"
-src = "https://res.cloudinary.com/jimmysong/image/upload/banners/istio-meetup-gdg-beijing.jpg"
+desc = ""
+src = "https://res.cloudinary.com/dbwa3pyqs/image/upload/c_crop,g_west,h_887,w_1884,x_493/v1526053591/art-lasovsky-559569-unsplash.jpg"
