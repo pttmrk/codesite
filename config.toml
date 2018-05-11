@@ -26,15 +26,20 @@ parent = "Categories"
 url = "categories/service-mesh"
 weight = 7
 [[menu.main]]
+name = "Cheatsheets"
+parent = "Projects"
+url = "cheatsheets"
+weight = 6
+[[menu.main]]
 name = "Serverless"
 parent = "Categories"
 url = "categories/serverless"
 weight = 6
 [[menu.main]]
-name = "Cheatsheets"
+name = "Magpie"
 parent = "Projects"
-url = "cheatsheets"
-weight = 6
+url = "posts/yarn-on-docker"
+weight = 5
 [[menu.main]]
 name = "Migrating to Cloud Native"
 parent = "Gitbooks"
@@ -44,11 +49,6 @@ weight = 5
 name = "Github"
 parent = "Categories"
 url = "categories/github"
-weight = 5
-[[menu.main]]
-name = "Magpie"
-parent = "Projects"
-url = "posts/yarn-on-docker"
 weight = 5
 [[menu.main]]
 name = "Istio service mesh"
@@ -61,6 +61,16 @@ parent = "Categories"
 url = "categories/devops"
 weight = 4
 [[menu.main]]
+name = "Microservices"
+parent = "Categories"
+url = "categories/microservices"
+weight = 3
+[[menu.main]]
+name = "Cloud Native Java"
+parent = "Publications"
+url = "posts/cloud-native-java"
+weight = 3
+[[menu.main]]
 name = "Cloudinary go"
 parent = "Projects"
 url = "posts/cloudinary-go"
@@ -71,15 +81,10 @@ parent = "Gitbooks"
 url = "hugo-handbook"
 weight = 3
 [[menu.main]]
-name = "Microservices"
+name = "Cloud Native"
 parent = "Categories"
-url = "categories/microservices"
-weight = 3
-[[menu.main]]
-name = "Cloud Native Java"
-parent = "Publications"
-url = "posts/cloud-native-java"
-weight = 3
+url = "categories/cloud-native"
+weight = 2
 [[menu.main]]
 name = "Docker handbook"
 parent = "Gitbooks"
@@ -94,11 +99,6 @@ weight = 2
 name = "Awesome Cloud Native"
 parent = "Projects"
 url = "awesome-cloud-native"
-weight = 2
-[[menu.main]]
-name = "Cloud Native"
-parent = "Categories"
-url = "categories/cloud-native"
 weight = 2
 [[menu.main]]
 name = "Spark on kubernetes"
