@@ -18,13 +18,21 @@ website = "https://pttmrk.github.io"
 [[menu.main]]
 identifier = "Musings"
 name = "Musings"
+parent = "Categories"
 weight = 2
-parent="Categories"
 [[menu.main]]
 identifier = "Lists"
 name = "Lists"
+parent = "Categories"
 weight = 2
-parent="Categories"
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 3
+[[menu.main]]
+identifier = "Archive"
+name = "Archive"
+weight = 1
 [[menu.main]]
 identifier = "Reading List"
 name = "Reading List"
@@ -33,14 +41,6 @@ weight = 2
 identifier = "Categories"
 name = "Categories"
 weight = 1
-[[menu.main]]
-identifier = "Archive"
-name = "Archive"
-weight = 1
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 3
 [params]
 comments = true
 commit = false
