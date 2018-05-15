@@ -8,7 +8,7 @@ type = "page"
 <script>
   $(function(){
     $(".typed").typed({
-      strings: ["Technology.","Open Source.","Mathematics.","Space and Universe.","Science.","Art.","Ubuntu."],
+      strings: ["Technology.","Economics.","Data Science.","Society.","Philosophy."],
       typeSpeed: 100,
       loop: true,
       backDelay: 1000
@@ -21,7 +21,7 @@ type = "page"
   <div class="row">
     <div class="col-sm-12">
       <div class="text-center">
-          <h1>I write about <span class="typed" style="color:#890000";></span></h1>
+          <h1>I write about <span class="typed" style="color:#008AFF";></span></h1>
       </div>
     </div>
   </div>

@@ -1,0 +1,28 @@
+
+
+
+{{ define "main" }}
+<style>
+        .main-content {
+            padding-top: 0px;
+        }
+        </style>
+  <div role="main" class="container">
+    <div class="text-center">   
+      {{ range (.Site.RegularPages.GroupByDate "2006") }}
+      <ul class="list-archive" style="padding-left: 0px;">
+            {{ range (where .Pages "Type" "posts") }}
+              
+                  {{ .PublishDate.Format "02 Jan 2006" }}
+                </br>
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </br>
+        </br>
+          {{ end }}
+      </ul>
+  {{ end }}
+    </div>
+  </div>
+{{ end }}
+
+    

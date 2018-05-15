@@ -6,7 +6,7 @@ metaDataFormat = "yaml"
 pygmentCodeFences = true
 pygmentsUseClasses = false
 theme = "beautifulhugo"
-title = "Marco Patti"
+title = "MARCO PATTI"
 [Author]
 email = "pattimrk@gmail.com"
 facebook = ""
@@ -16,139 +16,39 @@ name = "Marco Patti"
 twitter = "pttmrk"
 website = "https://pttmrk.github.io"
 [[menu.main]]
-name = "Tags"
-parent = "Categories"
-url = "tags"
-weight = 8
-[[menu.main]]
-name = "Service Mesh"
-parent = "Categories"
-url = "categories/service-mesh"
-weight = 7
-[[menu.main]]
-name = "Serverless"
-parent = "Categories"
-url = "categories/serverless"
-weight = 6
-[[menu.main]]
-name = "Cheatsheets"
-parent = "Projects"
-url = "cheatsheets"
-weight = 6
-[[menu.main]]
-name = "Github"
-parent = "Categories"
-url = "categories/github"
-weight = 5
-[[menu.main]]
-name = "Magpie"
-parent = "Projects"
-url = "posts/yarn-on-docker"
-weight = 5
-[[menu.main]]
-name = "Migrating to Cloud Native"
-parent = "Gitbooks"
-url = "migrating-to-cloud-native-application-architectures"
-weight = 5
-[[menu.main]]
-name = "Istio service mesh"
-parent = "Gitbooks"
-url = "http://istio.doczh.cn"
-weight = 4
-[[menu.main]]
-name = "Devops"
-parent = "Categories"
-url = "categories/devops"
-weight = 4
-[[menu.main]]
-name = "Microservices"
-parent = "Categories"
-url = "categories/microservices"
-weight = 3
-[[menu.main]]
-name = "Cloud Native Java"
-parent = "Publications"
-url = "posts/cloud-native-java"
-weight = 3
-[[menu.main]]
-name = "Cloudinary go"
-parent = "Projects"
-url = "posts/cloudinary-go"
-weight = 3
-[[menu.main]]
-name = "Hugo Handbook"
-parent = "Gitbooks"
-url = "hugo-handbook"
-weight = 3
-[[menu.main]]
-name = "Docker handbook"
-parent = "Gitbooks"
-url = "docker-handbook"
+identifier = "Musings"
+name = "Musings"
 weight = 2
+parent="Categories"
 [[menu.main]]
-name = "Awesome Cloud Native"
-parent = "Projects"
-url = "awesome-cloud-native"
+identifier = "Lists"
+name = "Lists"
 weight = 2
+parent="Categories"
 [[menu.main]]
-name = "Cloud Native Python"
-parent = "Publications"
-url = "posts/cloud-native-python"
-weight = 2
-[[menu.main]]
-name = "Cloud Native"
-parent = "Categories"
-url = "categories/cloud-native"
-weight = 2
-[[menu.main]]
-name = "Spark on kubernetes"
-parent = "Projects"
-url = "spark-on-k8s"
-weight = 1
-[[menu.main]]
-name = "Cloud Native Go"
-parent = "Publications"
-url = "cloud-native-go"
-weight = 1
-[[menu.main]]
-name = "Kubernetes handbook"
-parent = "Gitbooks"
-url = "kubernetes-handbook"
-weight = 1
-[[menu.main]]
-name = "kubernetes"
-parent = "Categories"
-url = "categories/kubernetes"
-weight = 1
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 7
-[[menu.main]]
-identifier = "Projects"
-name = "Projects"
-weight = 4
-[[menu.main]]
-identifier = "Publications"
-name = "Publications"
-weight = 3
-[[menu.main]]
-identifier = "Gitbooks"
-name = "Gitbooks"
+identifier = "Reading List"
+name = "Reading List"
 weight = 2
 [[menu.main]]
 identifier = "Categories"
 name = "Categories"
 weight = 1
+[[menu.main]]
+identifier = "Archive"
+name = "Archive"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 3
 [params]
-algolia = "d2134c5a8d250e6d3246594240c45201"
 comments = true
 commit = false
 dateformat = "January 2, 2006"
-description = "jimmysong.io|宋净超的博客|Cloud Native|Big Data"
+description = "Just an invite to second order thinking."
 errorpage = "https://res.cloudinary.com/jimmysong/image/upload/images/404-not-found-cat.png"
 favicon = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/favicon.ico"
-hello = "Hi,I'm Marco"
+hello = "Hi, I'm Marco :)"
 logo = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/avatar-icon.png"
 rss = true
 subtitle = ""
