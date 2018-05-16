@@ -1,12 +1,10 @@
 DefaultContentLanguage = "en"
 baseurl = "https://pttmrk.github.io/"
-hasCJKLanguage = true
-languageCode = "zh-cn"
 metaDataFormat = "yaml"
 pygmentCodeFences = true
 pygmentsUseClasses = false
 theme = "beautifulhugo"
-title = "MARCO PATTI"
+title = "Marco Patti"
 [Author]
 email = "pattimrk@gmail.com"
 facebook = ""
@@ -37,6 +35,7 @@ weight = 1
 identifier = "Archive"
 name = "Archive"
 weight = 1
+url="archive"
 [[menu.main]]
 name = "About"
 url = "about"
@@ -51,7 +50,13 @@ favicon = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/favic
 hello = "Hi, I'm Marco :)"
 logo = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/avatar-icon.png"
 rss = true
-subtitle = ""
+subtitle = "Dom"
 [[params.bigimg]]
 desc = ""
 src = "https://res.cloudinary.com/dbwa3pyqs/image/upload/c_crop,g_west,h_887,w_1884,x_493/v1526053591/art-lasovsky-559569-unsplash.jpg"
+[outputs]
+  home = [ "HTML", "RSS" ]
+[outputFormats]
+[outputFormats.RSS]
+  mediatype = "application/rss"
+  baseName = "feed"
