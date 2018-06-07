@@ -1,7 +1,4 @@
 ---
-pages:
-- ccbcvcb.md
-- posts/qq.md
 hide_body: false
 is_partial: false
 fields:
@@ -38,3 +35,7 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- mental-models.md
+- ccbcvcb.md
+- posts/qq.md
