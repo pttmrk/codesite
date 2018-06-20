@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Me on Marco Patti</title>
     <link>https://pttmrk.github.io/tags/me/</link>
     <description>Recent content in Me on Marco Patti</description>
     <generator>Hugo -- gohugo.io</generator>
+=======
+    <title>Me on MARCO PATTI</title>
+    <link>https://pttmrk.github.io/tags/me/</link>
+    <description>Recent content in Me on MARCO PATTI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
     <managingEditor>pattimrk@gmail.com (Marco Patti)</managingEditor>
     <webMaster>pattimrk@gmail.com (Marco Patti)</webMaster>
     <lastBuildDate>Sat, 18 Mar 2017 20:53:54 +0800</lastBuildDate>
@@ -18,9 +26,13 @@
       <pubDate>Sat, 18 Mar 2017 20:53:54 +0800</pubDate>
       <author>pattimrk@gmail.com (Marco Patti)</author>
       <guid>https://pttmrk.github.io/about/</guid>
+<<<<<<< HEAD
       <description>Info &amp;gt;&amp;gt;&amp;gt;!  Jimmy Song（宋净超） Beijing, China 🇨🇳 Major in Software Engineering Career  iFlytek （科大讯飞) TalkingData Ant Financial（蚂蚁金服）current   Books Translations
  Cloud Native Go - 构建基于Go和React的云原生Web应用与微服务 Cloud Native Python - 使用Python和React构建云原生应用 Cloud Native Java - 使用Java构建云原生应用  Gitbooks
  kubernetes-handbook - kubernetes中文指南/实践手册 hugo-handbook - Building static website with hugo  GitHub  awesome-cloud-native - Awesome cloud native architectures cheatsheets - A modest collection of cheatsheets I&amp;rsquo;ve written.</description>
+=======
+      <description>Info &amp;gt;&amp;gt;&amp;gt;! Jimmy Song（宋净超） Beijing, China 🇨🇳 Major in Software Engineering Career iFlytek （科大讯飞) TalkingData Ant Financial（蚂蚁金服）current Books Translations Cloud Native Go - 构建基于Go和React</description>
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
     </item>
     
   </channel>

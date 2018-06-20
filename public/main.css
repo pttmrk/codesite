@@ -83,7 +83,11 @@ h4,
 h5,
 h6 {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+<<<<<<< HEAD
     font-weight: 700;
+=======
+    font-weight: 800;
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
 }
 
 a {
@@ -181,7 +185,11 @@ img {
 
 .navbar-custom .nav li a {
     text-transform: uppercase;
+<<<<<<< HEAD
     font-size: 13px;
+=======
+    font-size: 15px;
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
     letter-spacing: 1px;
 }
 
@@ -596,7 +604,11 @@ footer .theme-by {
     text-align:center;
 }
 
+<<<<<<< HEAD
 .intro-header .page-heading,
+=======
+.intro-header .page-heading .page-subheading,
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
 .intro-header .post-heading .post-subheading {
     font-size: 27px;
     line-height: 1.1;
@@ -607,6 +619,7 @@ footer .theme-by {
     word-break: break-word;
 }
 
+<<<<<<< HEAD
 
 .page-subheading {
     font-size: 27px;
@@ -617,6 +630,8 @@ footer .theme-by {
     margin: 10px 0 30px;
     word-break: break-word;}
 
+=======
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
 .intro-header .post-heading .post-subheading {
     margin-bottom: 20px;
 }
@@ -903,7 +918,10 @@ code {
 }
 
 aside.toc{
+<<<<<<< HEAD
   background: #F5F5F5;
+=======
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
   float: right;
   padding: 4px;
   margin: 0;

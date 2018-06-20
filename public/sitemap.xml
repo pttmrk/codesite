@@ -3,11 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://pttmrk.github.io/books/</loc>
     <lastmod>2018-05-31T14:23:05+02:00</lastmod>
   </url>
   
   <url>
+=======
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
     <loc>https://pttmrk.github.io/archive/</loc>
     <lastmod>2018-05-15T17:08:55+02:00</lastmod>
   </url>
@@ -34,7 +37,11 @@
   
   <url>
     <loc>https://pttmrk.github.io/</loc>
+<<<<<<< HEAD
     <lastmod>2018-05-31T14:23:05+02:00</lastmod>
+=======
+    <lastmod>2018-05-15T17:08:55+02:00</lastmod>
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
   </url>
   
   <url>

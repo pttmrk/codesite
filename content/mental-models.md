@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "Mental Models"
 date: 2018-06-07T17:23:44+02:00
 bigimg: [{src: "https://res.cloudinary.com/jimmysong/image/upload/images/2018040501.jpg", desc: "Flowers|Hangzhou|Apr 5,2018"}]
@@ -75,3 +76,12 @@ While mainly intended for my own fruition, I hope this collection was useful to 
 	* https://janav.wordpress.com/2013/06/26/latticework-of-mental-models/
 	* https://jamesclear.com/feynman-mental-models
 	* https://medium.com/@SparksRemarks/systems-thinking-the-essential-mental-models-needed-for-growth-5d3e7f93b420
+=======
+title: Mental Models
+date: 2018-06-07 15:06:44 +0000
+bigimg: []
+draft: false
+
+---
+1
+>>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
