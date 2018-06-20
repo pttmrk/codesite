@@ -36,6 +36,6 @@ fields:
   hidden: false
   default: true
 pages:
-- mental-models.md
-- ccbcvcb.md
-- posts/qq.md
+- content/ccbcvcb.md
+- content/mental-models.md
+- content/posts/qq.md
