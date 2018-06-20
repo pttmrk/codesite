@@ -35,7 +35,7 @@ h4,
 h5,
 h6 {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-weight: 800;
+    font-weight: 700;
 }
 
 a {
@@ -133,7 +133,7 @@ img {
 
 .navbar-custom .nav li a {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 13px;
     letter-spacing: 1px;
 }
 
@@ -548,7 +548,8 @@ footer .theme-by {
     text-align:center;
 }
 
-.intro-header .page-heading .page-subheading,
+
+.intro-header .page-heading
 .intro-header .post-heading .post-subheading {
     font-size: 27px;
     line-height: 1.1;
@@ -558,6 +559,18 @@ footer .theme-by {
     margin: 10px 0 0;
     word-break: break-word;
 }
+
+.footnotes
+{ font-size:13px !important}
+
+.page-subheading {
+    font-size: 27px;
+    line-height: 1.1;
+    display: block;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    margin: 10px 0 30px;
+    word-break: break-word;}
 
 .intro-header .post-heading .post-subheading {
     margin-bottom: 20px;
@@ -845,6 +858,7 @@ code {
 }
 
 aside.toc{
+  background: #F5F5F5;
   float: right;
   padding: 4px;
   margin: 0;

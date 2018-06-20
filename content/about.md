@@ -1,9 +1,9 @@
 ---
-date: 2017-03-18 20:53:54 +0800
+date: 2018-06-11 20:53:54 +0800
 title: About me
 tags:
 - me
-subtitle: "宋净超"
+subtitle: 
 description: Jimmy Song(宋净超) - Cloud Native and Big Data
 nocomment: true
 postmeta: false
@@ -13,20 +13,33 @@ bigimg:
 - src: https://res.cloudinary.com/jimmysong/image/upload/images/dark-side-of-the-moon.jpg
   desc: Dark Side of the Moon - Pink Floyd
 type: page
-
 ---
-![wechat](https://res.cloudinary.com/jimmysong/image/upload/images/jimmysong-wechat-qrcode.jpg)
-
-### Info >>>!
-
-* Jimmy Song（宋净超）
-* Beijing, China 🇨🇳
-* Major in Software Engineering
+* Marco Patti
+* Milan, Italy 
+* MSc @ Bocconi University
 * Career
   * [iFlytek](http://www.iflytek.com) （科大讯飞)
   * [TalkingData](http://www.talkingdata.com)
   * [Ant Financial](https://www.antfin.com/)（蚂蚁金服）current
 
+
+<ul class="fa-ul">
+  <li><i class="fa fa-briefcase about-icon"></i>  Milan, Italy</li>
+</ul>   
+  
+<ul class="fa-ul">
+  <li><i class="fa fa-graduation-cap about-icon"></i></i>  List icons</li>
+  <li><i class="fa fa-code about-icon"></i>List icons</li>
+  <li><i class="fa fa-heart about-icon"></i></li>
+  <li><i class="fa fa-envelope about-icon"></i></li>
+</ul> 
+
+
+<i class="fa fa-car" style="font-size:60px;color:red;"></i>
+<i class="fa fa-user"></i>
+<i class="fa fa-user"></i>
+
+zclass=
 ---
 
 ### Books
@@ -41,8 +54,10 @@ type: page
 
 * [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook/) - kubernetes中文指南/实践手册
 * [hugo-handbook](https://github.com/rootsongjc/hugo-handbook) - Building static website with hugo
-
----
+<i class="\f000"> </i>
+<i class="fas fa-user">1</i>
+<i class="fas fa-user"></i>
+---   
 
 ### GitHub
 
@@ -82,13 +97,16 @@ type: page
 
 ### Contact
 
-* Wechat: jimmysong
-* Email: jimmysong@jimmysong.io
-* [Twitter@jimmysongio](https://twitter.com/jimmysongio)
-* [Facebook@jimmysongio](https://facebook.com/jimmysongio)
-* [500px](https://500px.com/jimmysongio)
-* [图虫(Tuchong Photography)](https://jimmysong.tuchong.com)
-* [知乎专栏——云原生应用架构](https://zhuanlan.zhihu.com/cloud-native)
-* 微信公众号——云原生应用架构(CloudNativeGo)
-
-![微信公众号-云原生应用架构](https://res.cloudinary.com/jimmysong/image/upload/images/cloud-native-wechat-public-account.jpg)
+* Telegram: mkrco
+* Email: pattimrk@gmail.com
+* [Twitter@ptttmrk](https://twitter.com/pttmrk)
+* [Facebook@pttmrk](https://facebook.com/pttmrk)
+Valossa
+Vidrovr
+Viscovery
+MIcrosoft Video Indexer
+Clarifai
+AWS Rekognition Video
+IBM Watson Video Enrichment
+Google Cloud Video Intelligence
+Uru

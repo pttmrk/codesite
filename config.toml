@@ -5,6 +5,7 @@ pygmentCodeFences = true
 pygmentsUseClasses = false
 theme = "beautifulhugo"
 title = "Marco Patti"
+footnotereturnlinkcontents = "↩"
 [Author]
 email = "pattimrk@gmail.com"
 facebook = ""
@@ -16,30 +17,36 @@ website = "https://pttmrk.github.io"
 [[menu.main]]
 identifier = "Musings"
 name = "Musings"
+parent = "Categories"
 weight = 2
-parent="Categories"
 [[menu.main]]
 identifier = "Lists"
 name = "Lists"
-weight = 2
-parent="Categories"
+parent = "Categories"
+weight = 1
 [[menu.main]]
-identifier = "Reading List"
-name = "Reading List"
+name = "About"
+url = "about"
+weight = 3
+[[menu.main]]
+identifier = "Blog"
+name = "Blog"
+url="archive"
+weight = 2
+[[menu.main]]
+identifier = "Books"
+name = "Books"
+url = "books"
+weight = 2
+[[menu.main]]
+identifier = "Mental Models"
+name = "Mental Models"
+url = "mental-models"
 weight = 2
 [[menu.main]]
 identifier = "Categories"
 name = "Categories"
 weight = 1
-[[menu.main]]
-identifier = "Archive"
-name = "Archive"
-weight = 1
-url="archive"
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 3
 [params]
 comments = true
 commit = false
@@ -47,16 +54,14 @@ dateformat = "January 2, 2006"
 description = "Just an invite to second order thinking."
 errorpage = "https://res.cloudinary.com/jimmysong/image/upload/images/404-not-found-cat.png"
 favicon = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/favicon.ico"
-hello = "Hi, I'm Marco :)"
+hello = ""
 logo = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/avatar-icon.png"
 rss = true
-subtitle = "Dom"
-[[params.bigimg]]
-desc = ""
-src = "https://res.cloudinary.com/dbwa3pyqs/image/upload/c_crop,g_west,h_887,w_1884,x_493/v1526053591/art-lasovsky-559569-unsplash.jpg"
+subtitle = "Just an invite to second order thinking."
 [outputs]
   home = [ "HTML", "RSS" ]
 [outputFormats]
 [outputFormats.RSS]
   mediatype = "application/rss"
-  baseName = "feed"
+
+

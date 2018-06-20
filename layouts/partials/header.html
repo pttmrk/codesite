@@ -14,8 +14,10 @@
   {{ if $bigimg }}
     <div id="header-big-imgs" data-num-img={{len $bigimg}} {{range $i, $img := $bigimg}}data-img-src-{{add $i 1}}="{{$img.src | absURL }}" {{ if $img.desc}}data-img-desc-{{add $i 1}}="{{$img.desc}}"{{end}}{{end}}></div>
   {{ end }}
-  <link rel="alternate" type="application/rss+xml" href='{{ "feed.xml" | absURL }}' />
+x  <link rel="alternate" type="application/rss+xml" href='{{ "index.xml" | absURL }}' />
 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <header class="header-section {{ if $bigimg }}has-img{{ end }}">
     {{ if $bigimg }}
       <div class="intro-header big-img">
@@ -41,7 +43,7 @@
                   {{ if $subtitle }}
                   {{if .IsHome}}
                     <hr class="small">
-                    <span class="page-subheading">{{ $subtitle }}</span>
+                    <span class="page-subheading"  style="margin-bottom: 20px">{{ $subtitle }}</span>
                   {{ else }}
                     {{ if eq .Type "posts" }}
                       <hr class="small">
@@ -61,7 +63,9 @@
         <span class="img-desc" style="display: inline;"></span>
       </div>
     {{end}}
-    <div class="intro-header no-img">
+    <div class="intro-header no-img" style="
+    margin-bottom: 20px">
+    
       {{ $subtitle := $.Scratch.Get "subtitle" }}
       <div class="container">
         <div class="row">

@@ -1,0 +1,1 @@
+{{ "<!--  [[params.bigimg]] desc = "" src = "https://res.cloudinary.com/dbwa3pyqs/image/upload/c_crop,g_west,h_887,w_1884,x_493/v1526053591/art-lasovsky-559569-unsplash.jpg""  //-->" | safeHtml }}
