@@ -1,12 +1,13 @@
 ---
-title: "Mental Models"
-date: 2018-06-07T17:23:44+02:00
-bigimg: [{src: "https://res.cloudinary.com/jimmysong/image/upload/images/2018040501.jpg", desc: "Flowers|Hangzhou|Apr 5,2018"}]
-draft: true
+title: Mental Models
+date: 2018-06-07 15:23:44 +0000
+bigimg:
+- src: https://res.cloudinary.com/jimmysong/image/upload/images/2018040501.jpg
+  desc: Flowers|Hangzhou|Apr 5,2018
 margin-bottom: 10px;
 notoc: true
----
 
+---
 *This page was born as my modest attempt to summarize the entire spectre of human knowledge.*  
  	
   
