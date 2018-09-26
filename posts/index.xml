@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Posts on Marco Patti</title>
     <link>https://pttmrk.github.io/posts/</link>
     <description>Recent content in Posts on Marco Patti</description>
     <generator>Hugo -- gohugo.io</generator>
-=======
-    <title>Posts on MARCO PATTI</title>
-    <link>https://pttmrk.github.io/posts/</link>
-    <description>Recent content in Posts on MARCO PATTI</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
->>>>>>> f52e4224047b6d4880d1f972669fa9760b3c6af5
     <managingEditor>pattimrk@gmail.com (Marco Patti)</managingEditor>
     <webMaster>pattimrk@gmail.com (Marco Patti)</webMaster>
-    <lastBuildDate>Fri, 11 May 2018 15:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 07:05:40 +0000</lastBuildDate>
     
 	<atom:link href="https://pttmrk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second Order Thinking</title>
+      <link>https://pttmrk.github.io/posts/second-order-thinking/</link>
+      <pubDate>Tue, 12 Jun 2018 07:05:40 +0000</pubDate>
+      <author>pattimrk@gmail.com (Marco Patti)</author>
+      <guid>https://pttmrk.github.io/posts/second-order-thinking/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>qq</title>
