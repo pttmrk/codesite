@@ -49,7 +49,7 @@ The main objective in studying and learning mental models is to be able to under
 
 > "All models are wrong, but some are useful."
 
-I have come across a wide variety of attempts to build similar lists \[^1\], but I have always found those incomplete, very limited in scope and presented in a way that made them difficult to remember.  
+I have come across a wide variety of attempts to build similar lists [^1], but I have always found those incomplete, very limited in scope and presented in a way that made them difficult to remember.  
 I will try to present a broad selection of useful models and ideas, without sprawling on irrelevant or redundant concepts and providing an example and a visual cue for each of them to help recalling. A lot of entries are taken from existing lists (that I encourage you to check out!) but many more were added by me.
 
 # The Models
@@ -60,23 +60,22 @@ I will try to present a broad selection of useful models and ideas, without spra
 While mainly intended for my own fruition, I hope this collection was useful to you too. If that's the case, feel free to reach out and send me any comment or suggestion on how it can be improved.  
 Thank you and keep on learning!
 
-
-\[^1\]: 	* https://simplicable.com/new/cognitive-biases  
-\* http://changingminds.org/  
-\* https://en.wikipedia.org/wiki/List_of_cognitive_biases  
-\* https://en.wikipedia.org/wiki/Portal:Thinking  
-\* https://personalmba.com/  
-\* https://rationalwiki.org/wiki/List_of_cognitive_biases  
-\* http://www.fallacyfiles.org  
-\* https://www.fs.blog/mental-models/  
-\* https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d  
-\* https://www.kevinespiritu.com/mental-models/
-\* https://en.wikibooks.org/wiki/Bestiary_of_Behavioral_Economics
-\* http://www.defmacro.org/2016/12/22/models.html
-\* http://robdkelly.com/blog/mental-models/a-list-of-top-100-mental-models-for-business/
-\* https://mattyford.com/mental-models/
-\* https://hurricanecapital.wordpress.com/mental-models/
-\* http://humanhow.com/en/list-of-cognitive-biases-with-examples/
-\* https://janav.wordpress.com/2013/06/26/latticework-of-mental-models/
-\* https://jamesclear.com/feynman-mental-models
-\* https://medium.com/@SparksRemarks/systems-thinking-the-essential-mental-models-needed-for-growth-5d3e7f93b420
+[^1]: * https://simplicable.com/new/cognitive-biases  
+	* http://changingminds.org/  
+	* https://en.wikipedia.org/wiki/List_of_cognitive_biases  
+	* https://en.wikipedia.org/wiki/Portal:Thinking  
+	* https://personalmba.com/  
+	* https://rationalwiki.org/wiki/List_of_cognitive_biases  
+	* http://www.fallacyfiles.org  
+	* https://www.fs.blog/mental-models/    
+	* https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d  
+	* https://www.kevinespiritu.com/mental-models/
+	* https://en.wikibooks.org/wiki/Bestiary_of_Behavioral_Economics
+	* http://www.defmacro.org/2016/12/22/models.html
+	* http://robdkelly.com/blog/mental-models/a-list-of-top-100-mental-models-for-business/
+	* https://mattyford.com/mental-models/
+	* https://hurricanecapital.wordpress.com/mental-models/
+	* http://humanhow.com/en/list-of-cognitive-biases-with-examples/
+	* https://janav.wordpress.com/2013/06/26/latticework-of-mental-models/
+	* https://jamesclear.com/feynman-mental-models
+	* https://medium.com/@SparksRemarks/systems-thinking-the-essential-mental-models-needed-for-growth-5d3e7f93b420
