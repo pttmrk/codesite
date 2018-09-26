@@ -60,6 +60,8 @@ I will try to present a broad selection of useful models and ideas, without spra
 While mainly intended for my own fruition, I hope this collection was useful to you too. If that's the case, feel free to reach out and send me any comment or suggestion on how it can be improved.  
 Thank you and keep on learning!
 
+Sessantasette
+
 \[^1\]: 	* https://simplicable.com/new/cognitive-biases  
 \* http://changingminds.org/  
 \* https://en.wikipedia.org/wiki/List_of_cognitive_biases  
