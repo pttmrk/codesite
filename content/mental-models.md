@@ -49,7 +49,7 @@ The main objective in studying and learning mental models is to be able to under
 
 > "All models are wrong, but some are useful."
 
-I have come across a wide variety of attempts to build similar lists [^1], but I have always found those incomplete, very limited in scope and presented in a way that made them difficult to remember.  
+I have come across a wide variety of attempts to build similar lists \[^1\], but I have always found those incomplete, very limited in scope and presented in a way that made them difficult to remember.  
 I will try to present a broad selection of useful models and ideas, without sprawling on irrelevant or redundant concepts and providing an example and a visual cue for each of them to help recalling. A lot of entries are taken from existing lists (that I encourage you to check out!) but many more were added by me.
 
 # The Models 
@@ -59,7 +59,9 @@ I will try to present a broad selection of useful models and ideas, without spra
 While mainly intended for my own fruition, I hope this collection was useful to you too. If that's the case, feel free to reach out and send me any comment or suggestion on how it can be improved.  
 Thank you and keep on learning!
 
-[^1]:
+Tredici
+
+\[^1\]:
 \* https://simplicable.com/new/cognitive-biases  
 \* http://changingminds.org/  
 \* https://en.wikipedia.org/wiki/List_of_cognitive_biases  
