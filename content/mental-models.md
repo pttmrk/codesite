@@ -52,7 +52,7 @@ The main objective in studying and learning mental models is to be able to under
 I have come across a wide variety of attempts to build similar lists \[^1\], but I have always found those incomplete, very limited in scope and presented in a way that made them difficult to remember.  
 I will try to present a broad selection of useful models and ideas, without sprawling on irrelevant or redundant concepts and providing an example and a visual cue for each of them to help recalling. A lot of entries are taken from existing lists (that I encourage you to check out!) but many more were added by me.
 
-# The Models
+# The Models VENTIDUE
 
 </br>
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrh38l4EfHom0bnH?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="700" style="background: transparent; border: 1px solid #ccc;"></iframe>
