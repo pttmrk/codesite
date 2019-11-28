@@ -156,7 +156,7 @@ img {
 .navbar-custom .navbar-brand:focus,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-    color: #2a55f4;
+    color: #004b7c;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -209,9 +209,6 @@ img {
     border-radius: 50%;
     margin-left: -50%;
     display: inline-block;
-    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
-    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
 .navbar-custom .avatar-container .avatar-img {
@@ -233,12 +230,6 @@ img {
     .navbar-custom .avatar-container {
         width: 100px;
         margin-top: -50px;
-    }
-    .navbar-custom .avatar-container .avatar-img-border {
-        width: 100%;
-        box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
-        -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
-        -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
     }
     .navbar-custom .avatar-container .avatar-img {
         width: 100%;
@@ -378,7 +369,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
     text-decoration: none;
-    color: #2a55f4;
+    color: #004b7c;
 }
 
 .post-preview .post-title {
