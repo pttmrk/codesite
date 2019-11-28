@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseurl = "https://pttmrk.github.io/"
+baseurl = "https://pttmrk.netlify.com/"
 metaDataFormat = "yaml"
 pygmentCodeFences = true
 pygmentsUseClasses = false
