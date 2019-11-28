@@ -37,10 +37,12 @@ weight = 2
 identifier = "Books"
 name = "Books"
 url = "books"
+parent = "Categories"
 weight = 2
 [[menu.main]]
 identifier = "Mental Models"
 name = "Mental Models"
+parent = "Categories"
 url = "mental-models"
 weight = 2
 [[menu.main]]

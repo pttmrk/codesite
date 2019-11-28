@@ -12,3 +12,8 @@ Do not put anything in this file - it's only here so that hugo won't throw an er
 {{ if .Params.notebook }}
     <link href="{{ $.Site.BaseURL }}css/jupyter.css" rel="stylesheet" type="text/css">
 {{ end }}
+{{ if .Params.books }}
+    <link href="{{ $.Site.BaseURL }}css/books.css" rel="stylesheet" type="text/css">
+    <script src="js/modernizr.custom.js"></script>
+{{ end }}
+

@@ -6,6 +6,10 @@ nocomment: true
 postmeta: false
 notoc: true
 seealso: false
+books: true
+postmeta: false
+notoc: true
+seealso: false
 ---
 
 <head>
@@ -14,14 +18,12 @@ seealso: false
 		<!-- Modernizr is used for flexbox fallback -->
 	<script src="js/modernizr.custom.js"></script>
 </head>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrmv75vwJzJApgiv?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrc4K7keOUKNrp4S?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 <div class="view">
 	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/The_Alchemist.png" alt="The Alchemist" />
+					<img class="product__image" src="images/Now_That_You_are_Rich.png" alt="The Alchemist"/>
 					<h3 class="product__title">The Alchemist</h3>
 					<span class="product__author highlight">Paulo Coelho</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Alchemist+by+paulo+coelho+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
@@ -67,37 +69,5 @@ seealso: false
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Who+Moved+My+Cheese%3F+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/The_Secret_Lives_of_Numbers.png" alt="The Secret Lives of Numbers: The Curious Truth Behind Everyday Digits" />
-					<h3 class="product__title">The Secret Lives of Numbers: The Curious Truth Behind Everyday Digits</h3>
-					<span class="product__author highlight">Michael Millar</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Secret+Lives+of+Numbers%3A+The+Curious+Truth+Behind+Everyday+Digits+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/Genius.png" alt="Genius!: Deceptively Simple Ways to Become Instantly Smarter" />
-					<h3 class="product__title">Genius!: Deceptively Simple Ways to Become Instantly Smarter</h3>
-					<span class="product__author highlight">Bannerman James</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Genius!%3A+Deceptively+Simple+Ways+to+Become+Instantly+Smarter+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/Time_Travel_for_Beginners.png" alt="Time Travel for Beginners" />
-					<h3 class="product__title">Time Travel for Beginners</h3>
-					<span class="product__author highlight">Mary Gribbin & John Gribbin</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Time+Travel+for+Beginners+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/The_Luck_Habit.png" alt="The Luck Habit: What the Luckiest People Think Know, and Do-- And How It Can Change Your Life" />
-					<h3 class="product__title">The Luck Habit: What the Luckiest People Think Know, and Do And How It Can Change Your Life</h3>
-					<span class="product__author highlight">Douglas Miller</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+luck+habit+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>			
 		</section>
 	</div>
