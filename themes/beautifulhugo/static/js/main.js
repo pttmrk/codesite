@@ -15,18 +15,18 @@ var main = {
           $(".navbar").removeClass("top-nav-short");
           $(".avatar-container").fadeIn(1000);
       }
-  });
-      $(window).scroll(function() {
-
-        if($(this).scrollTop() > 150) {
-          $(".navbar-brand").css({
-            visibility: 'visible'
-          });
-          $(".navbar-brand").fadeIn(800);
-        } else {
+    });
+    $(window).scroll(function() {
+      if($(this).scrollTop() > 150) {
+        $(".navbar-brand").css({
+          visibility: 'visible'
+        });
+        $(".navbar-brand").fadeIn(800);
+     } else {
           $(".navbar-brand").fadeOut(400);
         }
     });
+
     // On mobile, hide the avatar when expanding the navbar menu
     $('#main-navbar').on('show.bs.collapse', function () {
       $(".navbar").addClass("top-nav-expanded");
