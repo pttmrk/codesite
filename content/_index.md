@@ -3,8 +3,10 @@ title = ""
 type = "page"
 
 +++
-<script src="/js/jquery-1.11.2.min.js"></script>
+<script src="/js/jquery-1.11.2.min.js" type="text/javascript"></script>
 <script src="/js/typed.js" type="text/javascript"></script>
+<script src="/js/main.js"  type="text/javascript"></script>
+
 <script>
   $(function(){
     $(".typed").typed({

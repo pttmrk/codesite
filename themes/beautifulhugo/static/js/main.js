@@ -8,13 +8,25 @@ var main = {
   init : function() {
     // Shorten the navbar after scrolling a little bit down
     $(window).scroll(function() {
-        if ($(".navbar").offset().top > 50) {
-            $(".navbar").addClass("top-nav-short");
+      if ($(".navbar").offset().top > 40) {   
+          $(".navbar").addClass("top-nav-short");
+          $(".avatar-container").fadeOut(1000)
+      } else {
+          $(".navbar").removeClass("top-nav-short");
+          $(".avatar-container").fadeIn(1000);
+      }
+  });
+      $(window).scroll(function() {
+
+        if($(this).scrollTop() > 150) {
+          $(".navbar-brand").css({
+            visibility: 'visible'
+          });
+          $(".navbar-brand").fadeIn(800);
         } else {
-            $(".navbar").removeClass("top-nav-short");
+          $(".navbar-brand").fadeOut(400);
         }
     });
-    
     // On mobile, hide the avatar when expanding the navbar menu
     $('#main-navbar').on('show.bs.collapse', function () {
       $(".navbar").addClass("top-nav-expanded");
