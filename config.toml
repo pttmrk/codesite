@@ -4,7 +4,7 @@ metaDataFormat = "yaml"
 pygmentCodeFences = true
 pygmentsUseClasses = false
 theme = "beautifulhugo"
-title = "Marco Patti"
+title = "Reverberations"
 footnotereturnlinkcontents = "↩"
 [Author]
 email = "pattimrk@gmail.com"
@@ -51,11 +51,11 @@ weight = 1
 comments = true
 commit = false
 dateformat = "January 2, 2006"
-description = "Just an invite to second order thinking."
-errorpage = "https://res.cloudinary.com/jimmysong/image/upload/images/404-not-found-cat.png"
-favicon = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/favicon.ico"
+description = "Marco Patti"
+errorpage = "https://res.cloudinary.com/dbwa3pyqs/image/upload/v1574871202/avataaars_1.png"
+favicon = "https://res.cloudinary.com/dbwa3pyqs/image/upload/v1574871320/favicon.ico"
 hello = ""
-logo = "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/avatar-icon.png"
+logo = "https://res.cloudinary.com/dbwa3pyqs/image/upload/v1574871202/avataaars.png"
 rss = true
 subtitle = "Just an invite to second order thinking."
 [outputs]

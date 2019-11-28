@@ -137,11 +137,20 @@ img {
     letter-spacing: 1px;
 }
 
-.navbar-custom .navbar-brand,
+.navbar-custom,
 .navbar-custom .nav li a {
     font-weight: 800;
     color: #404040;
 }
+
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 1000;
+    font-size: 28px;
+    color: #0E2F5A !important;
+}
+
 
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
