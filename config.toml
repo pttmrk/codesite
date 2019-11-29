@@ -47,7 +47,7 @@ url = "mental-models"
 weight = 2
 [[menu.main]]
 identifier = "Categories"
-name = "Categories"
+name = "My Projects"
 weight = 1
 [params]
 comments = true
