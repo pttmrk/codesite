@@ -5,6 +5,7 @@ bigimg:
 - src: https://res.cloudinary.com/jimmysong/image/upload/images/2018040501.jpg
   desc: Flowers|Hangzhou|Apr 5,2018
 notebook: true
+draft: false
 ---
 Salve a tutti. è ora arrivato il momento di fare casino
 
