@@ -1,15 +1,13 @@
 ---
 title: "Books"
-date: 2018-05-31T14:23:05+02:00
+subtitle: "A timeless list of favorites"
+date: 2018-05-31 T14:23:05+02:00
 type: page
 nocomment: true
 postmeta: false
 notoc: true
 seealso: false
 books: true
-postmeta: false
-notoc: true
-seealso: false
 ---
 
 <head>
@@ -19,7 +17,6 @@ seealso: false
 	<script src="js/modernizr.custom.js"></script>
 </head>
 <div class="view">
-	<div class="my__suggestion"><center><h1><br>Books I Would Recommend</h1></center><div>
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">

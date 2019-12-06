@@ -367,3 +367,7 @@ a:hover {
     margin-top: 0;
     display: none;
 }
+
+.page-heading
+{ color: #F5F5F5 !important;
+}

@@ -1,112 +1,49 @@
 ---
-date: 2018-06-11 20:53:54 +0800
+date: 2019-05-12 20:53:54 +0800
 title: About me
-tags:
-- me
-subtitle: 
-description: Jimmy Song(宋净超) - Cloud Native and Big Data
+subtitle: ""
+description: Marco Patti - About me
 nocomment: true
 postmeta: false
 notoc: true
 seealso: false
-bigimg:
-- src: https://res.cloudinary.com/jimmysong/image/upload/images/dark-side-of-the-moon.jpg
-  desc: Dark Side of the Moon - Pink Floyd
+nopager: true
 type: page
 ---
-* Marco Patti
-* Milan, Italy 
-* MSc @ Bocconi University
-* Career
-  * [iFlytek](http://www.iflytek.com) （科大讯飞)
-  * [TalkingData](http://www.talkingdata.com)
-  * [Ant Financial](https://www.antfin.com/)（蚂蚁金服）current
+
+Hello there! My name is Marco Patti, based in Milan, Italy.
+I started this blog in 2019 as a way to express my ideas and engage in the global conversation. I always write with the intent of being interesting for my audience, so this is the one page where I can write all about myself, without feeling the need for it to be useful.
+
+<i class="fa fa-briefcase about-icon"></i> 
+Currently working as data engineer for [FinconsGroup](http://www.finconsgroup.com/). My Resume as of 2019 is available [here](/cv.md). 
+
+<i class="fa fa-graduation-cap about-icon"></i>
+I hold a degree in Finance and Economics from [Bocconi University](http://unibocconi.it), and that's supposed to count for something for some people.
+
+<i class="fa fa-book about-icon"></i> 
+I enjoy reading books and articles on a broad range of topics. A curated list of favorites can be found [here](/books).
+
+<i class="fa fa-code about-icon"></i> 
+I love building things, learning and experimenting in new projects. Some of the most fun I've ever had was in working closely with a nimble team in a startup, creating value out of nothing. If you need a business and tech savvy person to join your project and create something awesome, I am actively looking for new opportunities! 
+
+<i class="fa fa-envelope about-icon"></i>
+I am eager to meet new people, connect, discuss, network and grow, so if you like anything here feel free to follow the social media links or drop an [email](<mailto:email@example.com>).
 
 
-<ul class="fa-ul">
-  <li><i class="fa fa-briefcase about-icon"></i>  Milan, Italy</li>
-</ul>   
-  
-<ul class="fa-ul">
-  <li><i class="fa fa-graduation-cap about-icon"></i></i>  List icons</li>
-  <li><i class="fa fa-code about-icon"></i>List icons</li>
-  <li><i class="fa fa-heart about-icon"></i></li>
-  <li><i class="fa fa-envelope about-icon"></i></li>
-</ul> 
+<i class="fa fa-heart about-icon"></i>
+In my spare time, #TODO
 
+<center>
+	<i class="fa fa-twitter about-icon"></i>  <a href="https://twitter.com/pttmrk" class="twitter-follow-button" data-size="large" data-show-count="false"> Follow @pttmrk</a>
+	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><i class="fa fa-twitter about-icon"></i>
+</center>
 
-<i class="fa fa-car" style="font-size:60px;color:red;"></i>
-<i class="fa fa-user"></i>
-<i class="fa fa-user"></i>
-
-zclass=
----
-
-### Books
-
-**Translations**
-
-* [Cloud Native Go - 构建基于Go和React的云原生Web应用与微服务](https://jimmysong.io/cloud-native-go)
-* [Cloud Native Python - 使用Python和React构建云原生应用](https://jimmysong.io/posts/cloud-native-python/)
-* [Cloud Native Java - 使用Java构建云原生应用](https://jimmysong.io/posts/cloud-native-java)
-
-**Gitbooks**
-
-* [kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook/) - kubernetes中文指南/实践手册
-* [hugo-handbook](https://github.com/rootsongjc/hugo-handbook) - Building static website with hugo
-<i class="\f000"> </i>
-<i class="fas fa-user">1</i>
-<i class="fas fa-user"></i>
----   
-
-### GitHub
-
-* [awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native) - Awesome cloud native architectures
-* [cheatsheets](https://jimmysong.io/cheatsheets) -  A modest collection of cheatsheets I've written.
-* [cloudinary-go](https://github.com/rootsongjc/cloudinary-go) - A Go client library and CLI tool to upload static assets to Cloudinary service.
-* [magpie](https://github.com/rootsongjc/magpie) - Deploying and managing a Hadoop Yarn cluster with Docker Swarm.
-* [kubernetes-vagrant-centos-cluster](https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster) - Setting up a Kubernetes cluster with Vagrant and VirtualBox
-* [Spark on kubernetes](https://jimmysong.io/spark-on-k8s) - Running spark on kubernetes with native kubernetes scheduler
-
----
-
-### Activities
-
-#### 2018
-
-* May 20,2018 | Nanjing | [Global Tech Week 2018, 4th NJSD Global Conference](http://njsd-china.org/NJSDGlobal2018/)【2018全球技术周暨第四届南京（全球）软件大会】 | The next stage of Cloud Native apps
-* Mar 23 - Mar 25,2018 | Beijing | Kubernetes 实战培训 | [Kubernetes实战培训|北京站](http://dockone.io/article/2626)
-
-#### 2017
-
-* Dec 16,2017 (🎂 My birthday)| Beijing | 下一代微服务： Service Mesh is Coming | [IT大咖说 数人云&TalkingData meetup](http://www.itdks.com/eventlist/detail/1690)
-* Dec 8,2017 | Beijing | ArchSummit（全球架构师峰会）| [从Kubernetes到Cloud Native——云原生应用之路](http://bj2017.archsummit.com/presentation/306)
-* Oct  15,2017 | Hangzhou | KEUC 2017（Kubernetes中国用户大会）| [k8smeetup最佳社区译者、最佳技术专栏作者](http://keuc.k8smeetup.com/)
-* Sept 23,2017 | Beijing | Kubernetes 实战训练 | [Kubernetes 云原生应用设计与实战](https://www.bagevent.com/event/791762)
-* Aug 26,2017 | Beijing | 技术·线下沙龙：云原生和微服务 | [云原生与微服务](http://www.huodongxing.com/event/8401246554100)
-* Jul 7,2017 | Shenzhen | ArchSummit（全球架构师峰会）| [使用kubernetes的微服务和云原生应用实践](http://sz2017.archsummit.com/presentation/1080)
-
-#### 2016
-
-* Oct 20,2016 | Shanghai | Qcon | [Yarn on Docker——容器技术在大数据场景下的应用](http://2016.qconshanghai.com/speakers/202253)
-* Oct 13,2016 | Hangzhou | The Computing Conference（云栖大会）| [大规模容器集群的管理与调度](https://yunqi.aliyun.com/2016/hangzhou/schedule?spm=5176.8098788.535884.3.7cdb1f673uSp7Q)
-* Aug 15,2016 | Shanghai | MSA-summit（全球微服务架构技术大会） | [基于Docker的大数据集群虚拟化实践](http://msa-summit.com/)
-* Jun 19,2016 | Beijing | Ghostcloud四城联动大型巡讲活动 | [让Docker听到中国的声音](https://www.bagevent.com/event/97318)
-
----
+### *Reverberations*
+#TODO
 
 ### Contact
 
-* Telegram: mkrco
-* Email: pattimrk@gmail.com
-* [Twitter@ptttmrk](https://twitter.com/pttmrk)
-* [Facebook@pttmrk](https://facebook.com/pttmrk)
-Valossa
-Vidrovr
-Viscovery
-MIcrosoft Video Indexer
-Clarifai
-AWS Rekognition Video
-IBM Watson Video Enrichment
-Google Cloud Video Intelligence
-Uru
+* [Telegram](https://t.me/mkrco)
+* [Email](<mailto:pattimrk@gmail.com>)
+* [Twitter](https://twitter.com/pttmrk)
+* [Facebook](https://facebook.com/pttmrk)
