@@ -4,7 +4,8 @@ metaDataFormat = "yaml"
 pygmentCodeFences = true
 pygmentsUseClasses = false
 theme = "beautifulhugo"
-title = "Reverberations"
+title = "Marco Patti"
+brand = "patti.cc"
 footnotereturnlinkcontents = "↩"
 [Author]
 email = "pattimrk@gmail.com"
@@ -56,10 +57,10 @@ dateformat = "January 2, 2006"
 description = "Marco Patti"
 errorpage = "https://res.cloudinary.com/dbwa3pyqs/image/upload/v1574871202/avataaars_1.png"
 favicon = "https://res.cloudinary.com/dbwa3pyqs/image/upload/v1574871320/favicon.ico"
-hello = ""
+hello = "sdsaas"
 logo = "https://res.cloudinary.com/dbwa3pyqs/image/upload/v1574871202/avataaars.png"
 rss = true
-subtitle = "Just an invite to second order thinking."
+subtitle = "Coder - Thinker - Writer"
 [outputs]
   home = [ "HTML", "RSS" ]
 [outputFormats]

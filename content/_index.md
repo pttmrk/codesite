@@ -3,13 +3,14 @@ title = ""
 type = "page"
 
 +++
+
 <script src="/js/jquery-1.11.2.min.js" type="text/javascript"></script>
 <script src="/js/typed.js" type="text/javascript"></script>
 
 <script>
   $(function(){
     $(".typed").typed({
-      strings: ["Technology.","Economics.","Data Science.","Society.","Philosophy."],
+      strings: ["Technology.","Economics.","Data Science.","Society.","Psychology."],
       typeSpeed: 100,
       loop: true,
       backDelay: 1000
@@ -29,4 +30,4 @@ type = "page"
 </div>
 
 
-[Jimmy Song(宋净超)](/about) is a **Developer Advocate** working at [Ant Financial](https://www.antfin.com/)(蚂蚁金服), also a Gopher, open source enthusiast, [Kubernetes](https://kubernetes.io), [Hugo](https://gohugo.io) fans. He operates another two website about Big Data(*<https://dataikudss.com>*) and Cloud Native(*<https://cloudnativego.com>*) at the same time. This is his own blog, all opinions by himself. If you do not see him in front of the computer, he must be traveling or taking pictures outside, visit his amazing pictures at [tuchong](https://jimmysong.tuchong.com/)(图虫). Feel free to [follow him on twitter](https://twitter.com/jimmysongio) or keep touch with him in wechat(微信), his wechat account is *jimmysong*. He has kept writing free and open-sourced [kubernetes-handbook](https://jimmysong.io/kubernetes-handbook) and [hugo-handbook](https://jimmysong.io/hugo-handbook) for the users who speak Chinese. Sometimes he will share opinions or best practice on the conference, meetup or workshop, see more at his [schedule](https://jimmysong.io/about/#activities). 
+[Marco Patti](/about) is a **Solution Architect** from Milan, Italy. Also a data junkie, music player and lover, photography and board games enthusiast. This is his personal website and blog, all opinions by himself. Feel free to follow him on [twitter](https://twitter.com/pttmrk) or keep in touch with him on [telegram](https://t.me/mkrco).
