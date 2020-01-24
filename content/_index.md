@@ -23,7 +23,7 @@ type = "page"
   <div class="row">
     <div class="col-sm-12">
       <div class="text-center">
-          <h1>I write about <span class="typed" style="color:#008AFF";></span></h1>
+          <h1>I write about <span class="typed" style="color:#  497799";></span></h1>
       </div>
     </div>
   </div>

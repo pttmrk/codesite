@@ -5,7 +5,7 @@ pygmentCodeFences = true
 pygmentsUseClasses = false
 theme = "beautifulhugo"
 title = "Marco Patti"
-brand = "patti.cc"
+brand = "patti.dev"
 footnotereturnlinkcontents = "↩"
 [Author]
 email = "pattimrk@gmail.com"

@@ -4,16 +4,16 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           {{ range .Site.Data.beautifulhugo.social.social_icons }}
-            {{- if isset $.Site.Author .id }}
-              <li>
-                <a href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
-                  <span class="fa-stack fa-lg">
-                    <i class="fa fa-circle fa-stack-2x"></i>
-                    <i class="fa {{ .icon }} fa-stack-1x fa-inverse"></i>
-                  </span>
-                </a>
-              </li>
-            {{- end -}}
+          {{- if isset $.Site.Author .id }}
+          <li>
+            <a href="{{ printf .url (index $.Site.Author .id) }}" title="{{ .title }}">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa {{ .icon }} fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {{- end -}}
           {{ end }}
           {{ if .Site.Params.rss }}
           <li>
@@ -27,13 +27,13 @@
           {{ end }}
         </ul>
         <p class="credits copyright text-muted">
-        &copy;2019
+          &copy;2020
           {{ if .Site.Author.name }}
-            {{ if .Site.Author.website }}
-              <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
-            {{ else }}
-              {{ .Site.Author.name }}
-            {{ end }}
+          {{ if .Site.Author.website }}
+          <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
+          {{ else }}
+          {{ .Site.Author.name }}
+          {{ end }}
           {{ end }}
           <!--
           &nbsp;&bull;&nbsp;
@@ -47,7 +47,8 @@
         <!-- Please don't remove this, keep my open source work credited :) -->
         <p class="credits theme-by text-muted">
           {{ i18n "poweredBy" . | safeHTML }}
-          {{ with .Site.Params.commit }}&nbsp;&bull;&nbsp;[<a href="{{.}}{{ getenv "GIT_COMMIT_SHA" }}">{{ getenv "GIT_COMMIT_SHA_SHORT" }}</a>]{{ end }}
+          {{ with .Site.Params.commit }}&nbsp;&bull;&nbsp;[<a
+            href="{{.}}{{ getenv "GIT_COMMIT_SHA" }}">{{ getenv "GIT_COMMIT_SHA_SHORT" }}</a>]{{ end }}
         </p>
       </div>
     </div>
@@ -65,17 +66,21 @@
 <script src="{{ "js/main.js" | absURL }}"></script>
 -->
 
-<script src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/bootstrap.min.js" | absURL }}"></script>
-<script src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/photoswipe-ui-default.min.js" | absURL }}"></script>
-<script src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/photoswipe.min.js" | absURL }}"></script>
-<script src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/auto-render.min.js" | absURL }}"></script>
+<script
+  src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/bootstrap.min.js" | absURL }}"></script>
+<script
+  src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/photoswipe-ui-default.min.js" | absURL }}"></script>
+<script
+  src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/photoswipe.min.js" | absURL }}"></script>
+<script
+  src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/auto-render.min.js" | absURL }}"></script>
 <script src="/js/main.js" type="text/javascript"></script>
 <script src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/prism.js" | absURL }}"></script>
 <script src="{{ "https://res.cloudinary.com/jimmysong/raw/upload/rootsongjc-hugo/katex.min.js" | absURL }}"></script>
 <script> renderMathInElement(document.body); </script>
 {{ if .Site.Params.gcse }}
 <script>
-  (function() {
+  (function () {
     var cx = '{{ .Site.Params.gcse }}';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
